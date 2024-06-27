@@ -1,0 +1,38 @@
+{
+  "ref4": {
+    "atributos": {
+      "ref": "RON",
+      "precio": 30000.0,
+      "total": 300000.0,
+      "cantidad": 10.0,
+      "nombre": "BACARDI MOJITO"
+    }
+  },
+  "ref3": {
+    "atributos": {
+      "ref": "RON",
+      "precio": 16000.0,
+      "total": 240000.0,
+      "cantidad": 15.0,
+      "nombre": "CALDAS"
+    }
+  },
+  "ref2": {
+    "atributos": {
+      "ref": "NECTAR",
+      "precio": 15000.0,
+      "total": 105000.0,
+      "cantidad": 7.0,
+      "nombre": "DORADO"
+    }
+  },
+  "ref1": {
+    "atributos": {
+      "ref": "NECTAR",
+      "precio": 15000.0,
+      "total": 300000.0,
+      "cantidad": 20.0,
+      "nombre": "VERDE"
+    }
+  }
+}
